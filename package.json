@@ -10,8 +10,8 @@
   },
   "dependencies": {
     "@tailwindcss/postcss": "^4.2.1",
-    "qrcode": "latest",
     "next": "latest",
+    "qrcode": "latest",
     "react": "latest",
     "react-dom": "latest",
     "react-qr-code": "latest"
